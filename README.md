@@ -18,6 +18,6 @@ There are not any known bugs as at now. But feel free to letus know should you f
 ## Support and contact details
 Should you have any issues or questions, ideas or concerns feel free to reach out to me. Also feel free to make contribution to the code and can contact me at machukajoy@gmail.com
 ### License
-[MIT LICENSE](https://github.com/MachukaJoy/MyPortfolio/blob/main/LICENSE
+[MIT LICENSE](https://github.com/MachukaJoy/MyPortfolio/blob/main/LICENSE)
 **
 Copyright (c) {2022} [Joy Machuka ](https://github.com/MachukaJoy)
