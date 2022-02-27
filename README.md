@@ -10,6 +10,8 @@ This is the landing page to my personal portfolio
 * Run by clicking the live link
 * That's it
 The easiest way to run this code is to run the live link that takes you to the live page. Alternatively you could fork the project and clone it to your system by git clone repolink. You then go to the folder created on your system and open your code editor for instance visual studio with the command  code . on the terminal. Once it opens run the index.html and view the page on yur browser. Good luck :-)
+## Demo
+[CLick Here to View the active Live Link](https://machukajoy.github.io/MyPortfolio)
 ## Known Bugs
 There are not any known bugs as at now. But feel free to letus know should you find any.
 ## Technologies Used
