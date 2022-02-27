@@ -41,8 +41,7 @@ p {
 
 #showcase .bg-image {
   position: absolute;
-  background: #333
-    url(../images/bgimage.jpg);
+  background: #333 url(../images/bgimage.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -55,7 +54,7 @@ p {
 #showcase h1 {
   padding-top: 100px;
   padding-bottom: 0;
-  color:rgb(14, 16, 17);
+  color: rgb(14, 16, 17);
 }
 
 #showcase .content-wrap,
@@ -103,13 +102,15 @@ p {
   color: #333;
   padding: 2em;
 }
+
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
 
-td, th {
+td,
+th {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
