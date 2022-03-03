@@ -7,7 +7,7 @@
 
 + [Description](#Description)
 + [Setup](#Setup-Installation-Requirements)
-+ [Technologies](#Technologies-&-Languages-Used)
++ [Technologies](#Technologies-and-Languages-Used)
 + [Authors Info](#Author)
 + [Licence](#Licence)
 
@@ -33,7 +33,7 @@ SSH: `git clone git@github.com:MachukaJoy/MyPortfolio.git`
 ## Known Bugs
 There are not any known bugs as at now. But feel free to let us know should you find any.
 
-## Technologies-&-Languages-Used
+## Technologies-and-Languages-Used
 * HTML
 * CSS
 
