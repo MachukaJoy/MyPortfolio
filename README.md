@@ -1,13 +1,13 @@
 # MyPortfolio
 
-### (MS School Project)
 ### This is the landing page to my personal portfolio
+(MS School Project)
 
 #### By **Joy Machuka**
 
 + [Description](#Description)
-+ [Setup Instructions](#Setup/Installation Requirements)
-+ [Technologies and Languages Used](#Technologies & Languages Used)
++ [Setup](#Setup/Installation Requirements)
++ [Technologies](#Technologies & Languages Used)
 + [Authors Info](#Author)
 + [Licence](#Licence)
 
@@ -19,13 +19,11 @@ I created it as a project during a software development assessment with Moringa 
 
 ## Setup/Installation Requirements
 * The preferrable browser to run this on is chrome.
-* Can run on any operating system
-* Android device 
-* Run by clicking the live link
-* That's it
-The easiest way to run this code is to run the live link that takes you to the live page. Alternatively you could fork the project and clone it to your system by git clone repolink. You then go to the folder created on your system and open your code editor for instance visual studio with the command  code . on the terminal. Once it opens run the index.html and view the page on your browser. Good luck :-)<br>
-HTTPS: `git clone https://github.com/MachukaJoy/MyPortfolio.git`
+* Can run on any operating system or Android device 
+* Run by clicking the live link below<br>
 
+The easiest way to run this code is to run the live link that takes you to the live page. Alternatively you could fork the project and clone it to your system by git clone repolink. You then go to the folder created on your system and open your code editor for instance visual studio with the command  code . on the terminal. Once it opens run the index.html and view the page on your browser. Good luck :-)<br>
+HTTPS: `git clone https://github.com/MachukaJoy/MyPortfolio.git`<br>
 SSH: `git clone git@github.com:MachukaJoy/MyPortfolio.git`
 ## Live Site
 
