@@ -143,21 +143,17 @@ tr:nth-child(even) {
   margin: 0;
   padding: 0;
 }
-
 #section-contactme li {
   margin-bottom: 16px;
   background: #fff;
   color: #333;
 }
-
 .card-content {
   padding: 24px;
 }
-
 /*End Section contact me / hobbies / interests */
 
 /*Start Footer */
-
 #footer {
   padding: 32px;
   background: rgb(14, 16, 17);
