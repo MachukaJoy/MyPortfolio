@@ -6,8 +6,8 @@
 #### By **Joy Machuka**
 
 + [Description](#Description)
-+ [Setup](#Setup/Installation)
-+ [Technologies](#Technologies')
++ [Setup](#(Setup/Installation Requirements))
++ [Technologies](#"Technologies & Languages Used")
 + [Authors Info](#Author)
 + [Licence](#Licence)
 
