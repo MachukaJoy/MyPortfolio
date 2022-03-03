@@ -178,7 +178,6 @@ tr:nth-child(even) {
 }
 
 /* Media Queries */
-
 @media (min-width: 700px) {
   .grid {
     display: grid;
