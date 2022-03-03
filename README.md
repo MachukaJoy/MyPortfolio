@@ -6,7 +6,7 @@
 #### By **Joy Machuka**
 
 + [Description](#Description)
-+ [Setup](#Setup/Installation-Requirements)
++ [Setup](#Setup-Installation-Requirements)
 + [Technologies](#Technologies-&-Languages-Used)
 + [Authors Info](#Author)
 + [Licence](#Licence)
@@ -17,7 +17,7 @@ This is a landing page of my portfolio, Version 1.0<br>
 I created it as a project during a software development assessment with Moringa School.
 
 
-## Setup/Installation Requirements
+## Setup-Installation-Requirements
 * The preferrable browser to run this on is chrome.
 * Can run on any operating system or Android device 
 * Run by clicking the live link below<br>
@@ -33,7 +33,7 @@ SSH: `git clone git@github.com:MachukaJoy/MyPortfolio.git`
 ## Known Bugs
 There are not any known bugs as at now. But feel free to let us know should you find any.
 
-## Technologies & Languages Used
+## Technologies-&-Languages-Used
 * HTML
 * CSS
 
